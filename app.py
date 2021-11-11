@@ -1,1 +1,7 @@
-print("This is code from github python3 app")
+x=1
+y=2
+def getSum():
+  return x+y
+
+getSum()
+print("Hello from Python")
